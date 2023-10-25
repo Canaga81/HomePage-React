@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "courseType": "Frontend",
+            "img":"/images/Rectangle%2011.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 18
+        },
+        {
+            "id": 2,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2046.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 20
+        },
+        {
+            "id": 3,
+            "courseType": "UI/UX",
+            "img":"/images/Rectangle%2050.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 23
+        },
+        {
+            "id": 4,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2051.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 12
+        },
+        {
+            "id": 5,
+            "courseType": "Frontend",
+            "img":"/images/Rectangle%2059.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 10
+        },
+        {
+            "id": 6,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2061.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 21
+        },
+        {
+            "id": 7,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2060.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 25
+        },
+        {
+            "id": 8,
+            "courseType": "UI/UX",
+            "img":"/images/Rectangle%2071.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 18
+        },
+        {
+            "id": 9,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2060.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 25
+        },
+        {
+            "id": 10,
+            "courseType": "UI/UX",
+            "img":"/images/Rectangle%2071.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 18
+        },
+        {
+            "id": 11,
+            "courseType": "Frontend",
+            "img":"/images/Rectangle%2059.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 10
+        },
+        {
+            "id": 12,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2061.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 21
+        }
+    ],
+
+
+
+    "courses-2": [
+        {
+            "id": 1,
+            "courseType": "Frontend",
+            "img":"/images/Rectangle%2011.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 18
+        },
+        {
+            "id": 2,
+            "courseType": "Backend",
+            "img":"/images/Rectangle%2046.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 20
+        },
+        {
+            "id": 3,
+            "courseType": "UI/UX",
+            "img":"/images/Rectangle%2050.png",
+            "title": "Lorem ipsum dos amet",
+            "lesson": 23
+        }
+    ]   
+}
